@@ -9,8 +9,11 @@ const WelcomeSection: React.FC = () => (
       <h1 className={`${styles.myFont} font-bold mb-3 dark:text-cyan-400`}>
         Hi 👋, I'm Dinh Ngoc Minh Thu (Mint)
       </h1>
-      <p className="text-xl">Thành tích nổi bật: Cựu học sinh Ngô Quyền</p>
-      <p className="text-xl">Châm ngôn: "If you feel sad, don't be sad"</p>
+
+      <p className="text-xl">
+        I am currently a first year student major in <b>Logistics</b> at
+        University of Transport Ho Chi Minh City
+      </p>
     </section>
     <div className="w-full flex justify-center items-center container">
       <img

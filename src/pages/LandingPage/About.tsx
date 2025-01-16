@@ -42,30 +42,14 @@ const AboutSection = () => {
           <div className="w-full ">
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                Eager to learn everything in the vast field of computer science!
+                I’m an extrovert and I like to experience new things around me.{" "}
               </li>
               <li>
-                Passionate about building innovative Web applications and
-                exploring the Computer vision field
+                Another hobby of mine is taking part in social activities.
               </li>
-              <li>
-                Strengths:
-                <ul className="list-disc pl-5">
-                  <li>
-                    Have a solid foundation in theoretical knowledge in Computer
-                    Science
-                  </li>
-                  <li>
-                    Proficient in calculus (especially in integral) and physics
-                  </li>
-                </ul>
-              </li>
-              <li>
-                Fun Fact: I deeply appreciate art and enjoy playing table tenis
-              </li>
+              <li>"If you feel sad, don't be sad"</li>
             </ul>
           </div>
-          
         </div>
       </section>
     </div>
